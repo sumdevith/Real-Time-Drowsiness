@@ -36,7 +36,7 @@ An intelligent real-time driver drowsiness detection system using Deep Learning 
 <div align="center"> <div style="background:#0d1117; border-radius:10px; padding:20px; text-align:left; font-family:monospace;">
 bash
 # Clone repository
-[git clone https://github.com/yourusername/drowsiness-detection.git](https://github.com/sumdevith/Real-Time-Drowsiness.git)
+https://github.com/yourusername/drowsiness-detection.git
 cd drowsiness-detection
 
 # Install dependencies
